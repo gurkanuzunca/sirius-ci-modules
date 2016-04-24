@@ -1,0 +1,6 @@
+.videos .video {margin-bottom: 30px;}
+.videos .video img {border-left: 10px solid #ee1c25; border-radius: 2px;}
+.videos .video .title {font-weight: bold; font-size: 14px; margin-bottom: 5px;}
+.videos .video .summary {max-height: 56px; overflow: hidden;}
+.videos .video .play {margin-top: 10px;}
+.videos .video .play a {padding: 1px 5px;}
