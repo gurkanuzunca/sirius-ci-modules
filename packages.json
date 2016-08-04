@@ -1,22 +1,11 @@
 {
   "packages": {
-    "sirius/content": {
+    "sirius-ci/content": {
       "dev-master": {
-        "name": "sirius/content",
-        "version": "dev-master",
-        "dist": {
-          "url": "http://gurkanuzunca.com/files/bootstrap-responsive-psd.zip",
-          "type": "zip"
-        }
-      }
-    },
-
-    "sirius/modules": {
-      "dev-master": {
-        "name": "sirius/modules",
+        "name": "sirius-ci/content",
         "version": "dev-master",
         "source": {
-          "url": "https://github.com/gurkanuzunca/sirius-ci-modules",
+          "url": "https://github.com/gurkanuzunca/sirius-ci-content",
           "type": "git",
           "reference": "master"
         }
